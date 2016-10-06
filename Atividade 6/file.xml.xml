@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+ <Row><cpf> 11111111111,0</cpf> <aluno>jo&#xe3;o</aluno> <numero_turma> 1</numero_turma> <numero_turma_1> 1</numero_turma_1> <id_disciplina> 1</id_disciplina> <id_disciplina_1> 1</id_disciplina_1> <nome>POO</nome> <creditos> 6,0</creditos> </Row>
+ <Row><cpf> 66666666666,0</cpf> <aluno>vitor</aluno> <numero_turma> 1</numero_turma> <numero_turma_1> 1</numero_turma_1> <id_disciplina> 1</id_disciplina> <id_disciplina_1> 1</id_disciplina_1> <nome>POO</nome> <creditos> 6,0</creditos> </Row>
+ <Row><cpf> 22222222222,0</cpf> <aluno>jos&#xe9;</aluno> <numero_turma> 2</numero_turma> <numero_turma_1> 2</numero_turma_1> <id_disciplina> 1</id_disciplina> <id_disciplina_1> 1</id_disciplina_1> <nome>POO</nome> <creditos> 6,0</creditos> </Row>
+ <Row><cpf> 55555555555,0</cpf> <aluno>marcos</aluno> <numero_turma> 2</numero_turma> <numero_turma_1> 2</numero_turma_1> <id_disciplina> 1</id_disciplina> <id_disciplina_1> 1</id_disciplina_1> <nome>POO</nome> <creditos> 6,0</creditos> </Row>
+ <Row><cpf> 44444444444,0</cpf> <aluno>pedro</aluno> <numero_turma> 3</numero_turma> <numero_turma_1> 3</numero_turma_1> <id_disciplina> 2</id_disciplina> <id_disciplina_1> 2</id_disciplina_1> <nome>SAD</nome> <creditos> 4,0</creditos> </Row>
+ <Row><cpf> 33333333333,0</cpf> <aluno>Ana</aluno> <numero_turma> 4</numero_turma> <numero_turma_1> 4</numero_turma_1> <id_disciplina> 3</id_disciplina> <id_disciplina_1> 3</id_disciplina_1> <nome>ED1</nome> <creditos> 6,0</creditos> </Row>
+</Rows>

@@ -1,0 +1,7 @@
+cpf;aluno;numero_turma;id_disciplina;nome;creditos
+ 11111111111,0;joão; 1; 1;POO; 6,0
+ 66666666666,0;vitor; 1; 1;POO; 6,0
+ 22222222222,0;josé; 2; 1;POO; 6,0
+ 55555555555,0;marcos; 2; 1;POO; 6,0
+ 44444444444,0;pedro; 3; 2;SAD; 4,0
+ 33333333333,0;Ana; 4; 3;ED1; 6,0
